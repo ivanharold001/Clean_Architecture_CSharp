@@ -1,0 +1,12 @@
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.deps.json
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfo.cs
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\refint\Tarker.Booking.Common.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\ref\Tarker.Booking.Common.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Common\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.AssemblyReference.cache

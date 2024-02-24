@@ -1,0 +1,11 @@
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.deps.json
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.AssemblyInfo.cs
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\refint\Tarker.Booking.Domain.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Domain\obj\Debug\net8.0\ref\Tarker.Booking.Domain.dll

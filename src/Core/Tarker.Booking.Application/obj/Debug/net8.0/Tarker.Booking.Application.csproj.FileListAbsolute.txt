@@ -1,0 +1,15 @@
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.deps.json
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.AssemblyInfo.cs
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\refint\Tarker.Booking.Application.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\ref\Tarker.Booking.Application.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\Users\Ivan Harold\Documents\Project\CursoCSharp\CleanArchitecture\src\Core\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CopyComplete
